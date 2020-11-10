@@ -844,3 +844,6 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-11-10 15:21:46.214
 !MESSAGE executing callback sts4.classpath.zfYOMvem SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2020-11-10 16:29:07.482
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
